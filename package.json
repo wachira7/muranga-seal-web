@@ -1,0 +1,20 @@
+{
+  "name": "muranga-seal-website",
+  "version": "1.0.0",
+  "description": "A modern website for Muranga Seal Football Club built with HTML, Tailwind CSS, and JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.47",
+    "tailwindcss": "^3.4.14",
+    "vite": "^5.4.10"
+  }
+}
